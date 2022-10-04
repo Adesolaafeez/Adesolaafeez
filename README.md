@@ -2,9 +2,6 @@
 - 👀 I’m interested in anything educative
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... You reach me through 09037635431
+- 📫 How to reach me ... You reach me through 0903763
 
-<!---
-Adesolaafeez/Adesolaafeez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Alx is the best place to be as a response to your quest of becoming software engineering in no time
